@@ -1,5 +1,7 @@
 # TowerOfFantasyInternalVersion-BypassAC
 
+**DUE TO FAILED TO PREVENT CREATION GAMEDRIVERX64.SYS(ANTICHEAT), THIS PROJECT IS NO MORE WILL BE UPDATED!!!**
+
 This is Internal Version of Bypass AntiCheeto(block Creating File)... Enjoy to use this!!!
 
 ## Donations
