@@ -1,0 +1,2 @@
+# TowerOfFantasyInternalVersion-BypassAC
+TowerOfFantasyInternalVersion-BypassAC by RikkoMatsumatoOfficial
