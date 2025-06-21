@@ -1,6 +1,6 @@
 # TowerOfFantasyInternalVersion-BypassAC
 
-**DUE TO FAILED PREVENT CREATION GAMEDRIVERX64.SYS(ANTICHEAT), THIS PROJECT IS DISCOUNTINUED!!!(SOON WILL BE EXTERNAL VERSION BYPASS WITH DEBUGGER)**
+**DUE TO FAILED PREVENT CREATION GAMEDRIVERX64.SYS(ANTICHEAT) via HottaUpdate.exe, I'm rework the code again and creating Injector!**
 
 This is Internal Version of Bypass AntiCheeto(block Creating File)... Enjoy to use this!!!
 
