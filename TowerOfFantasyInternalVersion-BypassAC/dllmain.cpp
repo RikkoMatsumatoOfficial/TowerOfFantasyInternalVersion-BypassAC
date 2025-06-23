@@ -1,6 +1,6 @@
 // dllmain.cpp : Defines the entry point for the DLL application.
 #include "Includes.h"
-
+using namespace TowerOfFantasy_Hooks;
 void AllocateConsole() {
     FILE* fp;
     AllocConsole();
@@ -31,6 +31,7 @@ DWORD WINAPI ThreadMain()
     DetHack_GameDriver();
     return TRUE;
 }
+
 
 BOOL APIENTRY DllMain( HMODULE hModule,
                        DWORD  ul_reason_for_call,
