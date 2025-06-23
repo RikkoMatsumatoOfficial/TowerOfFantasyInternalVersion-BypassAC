@@ -23,6 +23,7 @@ void Inject(const char* processname, const char* dll_name)
 		else 
 		{
 			cout << "Success to Inject DLL!!!" << endl;
+			exit(-20)
 		}
 	}
 	else {
