@@ -23,7 +23,8 @@ void Inject(const char* processname, const char* dll_name)
 		}
 		else 
 		{
-			cout << "Success to Inject DLL!!!" << endl;
+			cout << "Successfully Injected DLL!!!" << endl;
+			Sleep(4300);
 			ResumeThread(pi.hThread);
 			CloseHandle(pi.hThread);
 			CloseHandle(pi.hProcess);
