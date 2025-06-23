@@ -1,8 +1,6 @@
 # TowerOfFantasyInternalVersion-BypassAC
 
-**DUE TO FAILED PREVENT CREATION GAMEDRIVERX64.SYS(ANTICHEAT) via HottaUpdate.exe, I'm creating Injector(It will be Injected in HottaGame.exe)!!!**
-
-This is Internal Version of Bypass AntiCheeto(block Creating File)... Enjoy to use this!!!
+This is Internal Version of Bypass AntiCheeto(block Creating File) with ToF Injector(Bypassing Creating in driver folder GameDriverX64.Sys)... Enjoy to use this!!!
 
 [External Version(Release) of Bypass ToF AntiCheat](https://github.com/RikkoMatsumatoOfficial/ToF-BypassRestoreAC/releases/tag/tof_bypassrestoreac_release)
 
